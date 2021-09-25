@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "Data processing for thesis"
+excerpt: "Create a representation of movement of workers in the educational system. <br/><sociimg src='/images/carte_rural.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This work was realized as part of a thesis in education sciences. It focused on proving that teachers -for example, but also other people in the department of Education- can move from one location to another in France, but they tend to stick to a same level of rurality. This requires parsing through answers to a form, and using mapping-related tools.
+
+This is a future project.
