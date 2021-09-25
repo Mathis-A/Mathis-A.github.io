@@ -1,6 +1,6 @@
 ---
 title: "Artist networks"
-excerpt: "Networks mapping relation \"related artists\" on Spotify<br/><img src='/images/Les Rita Mitsouko.png' width='500'>"
+excerpt: "Networks mapping relation \"related artists\" on Spotify<br/><img src='/images/rita_m.png' width='500'>"
 collection: portfolio
 ---
 
@@ -10,5 +10,5 @@ This personal project started when I wondered what happened if we followed the r
 
 Here is an example with french duo Les Rita Mitsouko : we can observe a cluster of popular artists all linked together at the top, and other less popular artists orbiting around.
 
-![Rita Mitsouko]("/images/Les Rita Mitsouko.png")
+![Rita Mitsouko](/images/rita_m.png)
 
