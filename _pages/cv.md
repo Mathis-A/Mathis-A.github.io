@@ -43,7 +43,7 @@ Skills
   * Used to self-learning
   * Teamwork : communication, active listening, responsability.
 
-* Related to programmation :
+* Related to programming :
   * Python > 4 years
   * SQL > 2 years
   * Java > 2 years
