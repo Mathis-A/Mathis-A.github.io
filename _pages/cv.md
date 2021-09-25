@@ -11,49 +11,49 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Lycée La Tour des Dames (High school), Rozay-en-Brie (77)  2014-2017
+* 2-year intensive undergraduate course, Melun (77) 2017-2019
+  * Preparing for competitive exams required for french engineering schools
+  * Prioritizing tasks, stress management
+* Ecole Centrale de Lille, Villeneuve d'Ascq (59) 2019-2023 (expected)
+  * Wide range of courses, from CAO to wave imaging, as well as aerodynamics or object-oriented programmation
+  * Group tasks, and business-oriented projects 
+* Master Data Science, Université de Lille (59) 2021-2023 (expected)
+  * Research-oriented : research projects, meeting with researchers
+  * Machine Learning
+  * Maths and statistics
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Winter 2020: Intern
+  * Construction firm Eiffage Clemessy Services, Nangis (77)
+  * Discovery of the working of a company, in relation with a sociology class
+  * Focused on the health and security of workers in the workshop 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020: Sound-proofing project
+  * Group of 12 students, supervised by Ecole Centrale de Lille
+  * Delivery of advices to the client about soundproofing.
+  * Creation of the model of a hall and simulation of the spread of music inside. 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Professional
+  * Project management (MOOC Gestion de projet)
+  * Used to self-learning
+  * Teamwork : communication, active listening, responsability.
+
+* Related to programmation :
+  * Python > 4 years
+  * SQL > 2 years
+  * Java > 2 years
+  * Use of Visual Studio Code, Git, Android Studio, Arduino
+
+* Related to research : 
+  * Latex and Beamer
+  * Zotero
+
+* Languages :
+  * English : fluent
+  * Spanish : intermediate
+  * Chinese : Beginner
