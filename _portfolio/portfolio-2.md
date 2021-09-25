@@ -1,6 +1,6 @@
 ---
 title: "Data processing for thesis"
-excerpt: "Create a representation of movement of workers in the educational system. <br/><img src='/images/carte_rural.png'>"
+excerpt: "Create a representation of movement of workers in the educational system. <br/><img src='/images/carte_rural.png' width='500'>"
 collection: portfolio
 ---
 
