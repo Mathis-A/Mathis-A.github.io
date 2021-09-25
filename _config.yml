@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "fr-FR"
-title                    : "Mathis Allard"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Mathis Allard-Mevel"
 description              : &description "Description blabla"
